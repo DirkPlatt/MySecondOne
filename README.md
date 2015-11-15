@@ -1,2 +1,2 @@
-# MyFirstSteps
-Repository for learning use of GitHub
+# MySecondOne
+Copy-Repository for learning use of GitHub
